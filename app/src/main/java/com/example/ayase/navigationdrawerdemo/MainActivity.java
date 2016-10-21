@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, EnglishFragment.OnListFragmentInteractionListener {
     @Override
     public void onListFragmentInteraction(Glossary.Vocabulary vocabulary) {
-
+        
     }
 
     @Override

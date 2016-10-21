@@ -19,8 +19,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Main2Activity"
-            android:label="@string/title_activity_main2"
+            android:name=".EditorActivity"
+            android:label="@string/title_activity_editor"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
